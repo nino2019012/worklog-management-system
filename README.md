@@ -12,4 +12,4 @@
 
 
 ## Certifiacations
-1. Sqld 개발자
+1. SQLD 개발자
