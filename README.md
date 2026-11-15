@@ -6,6 +6,6 @@
 * 출퇴근 기록 집중: 갈등의 본질인 출퇴근 기록 공유 무결성에 집중한다.
 
 ## 2. 기술 스택 및 주요 구현
-* Backend: FastAPI (Python), SQLModel, SQLAlchemy
+* Backend: FastAPI (Python), SQLModel, SQLAlchemy, (PostgreSql 도입 예정)
 * Frontend: React (TypeScript)
 * 목표: 빠른 수정 및 보완을 위해서 RESTful API로 구축한다. 해당 프레임워크와 비즈니스 로직의 결합도를 낮추기 위해서 파일 간 분리에 집중하여 유지보수성 향상을 목표로 한다.
