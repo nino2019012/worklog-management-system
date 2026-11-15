@@ -9,3 +9,7 @@
 * Backend: FastAPI (Python), SQLModel, SQLAlchemy, (PostgreSql 도입 예정)
 * Frontend: React (TypeScript)
 * 목표: 빠른 수정 및 보완을 위해서 RESTful API로 구축한다. 해당 프레임워크와 비즈니스 로직의 결합도를 낮추기 위해서 파일 간 분리에 집중하여 유지보수성 향상을 목표로 한다.
+
+
+## Certifiacations
+1. Sqld 개발자
